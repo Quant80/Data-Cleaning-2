@@ -10,7 +10,7 @@ Your program will then accomplish and show the result of the following tasks:
 
 1. Use the three "Surcharge" columns and provide summary statistics for all three columns. Find and show the missing counts for both rows and columns. For each column, show how many values are missing. For rows, show a table with the number of entries missing and how many rows have that exact number of entries missing.
 
-2. Show all the rows that have some missing values in them for the 'Surcharge' columns.
+2.Show all the rows that have some missing values in them for the 'Surcharge' columns.
 
 3.Display 20 quantiles for the "Surcharge" columns, from 0% to 100% in steps of 5%..
 
